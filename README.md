@@ -1,42 +1,57 @@
-<h2 align="left">Greetings, I'm Piyush Kumar</h2>
 
-###
+# iamPiyush
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-piyush&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Welcome to the repository for my portfolio website, crafted with Aceternity UI.
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-</div>
+## Table of Contents
 
-###
+- Introduction
+- Website URL
+- Technologies Used
+- Features
+- Installation
+- Usage
+- License
 
-<div align="left">
-  <a href="mail.iampiyush@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/iam-piyush/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+## Introduction
 
-<br clear="both">
+This repository contains the source code for my portfolio website, showcasing my projects, skills, and experience. The website is built using Aceternity UI, a UI framework that provides a sleek and modern design aesthetic.
 
-###
+
+## Website Link
+
+Visit my portfolio website: [www.iampiyush.vercel.app](https://iampiyush.vercel.app)
+## Features
+
+- **Responsive Design:** Ensures the website looks great on all devices.
+- **Project Showcase:** Highlights my projects with details and links to their repositories or live demos.
+- **Skills and Expertise:** Details my technical skills, experience, and interests.
+- **Contact Information:** Provides ways to get in touch with me.
+
+
+## Tech Stack
+
+**Client:**  ReactJS, Aceternity UI, TailwindCSS
+
+**Deployment:** Vercel
+
+
+## Usage
+
+- Feel free to explore the website to learn more about my projects and skills. If you have any questions or would like to collaborate, you can reach out to me using the contact information provided on the website.
+
+
+
+## Screenshots
+
+- Dashboard
+![App Screenshot](https://github.com/iam-piyush/iam-Piyush/blob/master/iamPiyush.png?raw=true)
+
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
