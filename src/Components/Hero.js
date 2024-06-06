@@ -20,7 +20,7 @@ const Hero = () => {
           <a href="/resume"><button className="py-2 px-5 max-[499px]:px-3 max-[499px]:text-sm border border-zinc-100 bg-zinc-100 rounded-md transition-all ease-in-out hover:bg-black hover:border hover:border-zinc-100 hover:text-zinc-100">
             My Resume
           </button></a>
-          <a href="#mailto:iampiyush@gmail.com"><button className="text-zinc-100 border border-zinc-100 rounded-md py-2 px-5 max-[499px]:px-3 max-[499px]:text-sm transition-all ease-in-out hover:bg-zinc-100 hover:border hover:border-zinc-100 hover:text-black">
+          <a href="#mailto:mail.iampiyush@gmail.com"><button className="text-zinc-100 border border-zinc-100 rounded-md py-2 px-5 max-[499px]:px-3 max-[499px]:text-sm transition-all ease-in-out hover:bg-zinc-100 hover:border hover:border-zinc-100 hover:text-black">
             Contact Me
           </button></a>
         </div>
