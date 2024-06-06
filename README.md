@@ -47,7 +47,7 @@ Visit my portfolio website: [www.iampiyush.vercel.app](https://iampiyush.vercel.
 ## Screenshots
 
 - Dashboard
-![App Screenshot](https://github.com/iam-piyush/iam-Piyush/blob/master/iamPiyush.png?raw=true)
+![App Screenshot](https://github.com/iam-piyush/iamPiyush/blob/master/iamPiyush.png?raw=true)
 
 
 
